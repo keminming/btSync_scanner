@@ -1,0 +1,206 @@
+countries_key,Country
+af_afghanistan,af - afghanistan
+ag_antigua_and_barbuda,ag - antigua and barbuda
+al_albania,al - albania
+am_armenia,am - armenia
+ao_angola,ao - angola
+ar_argentina,ar - argentina
+at_austria,at - austria
+au_australia,au - australia
+az_azerbaijan,az - azerbaijan
+dz_algeria,dz - algeria
+ba_bosnia__herzegovina,ba - bosnia-herzegovina
+bb_barbados,bb - barbados
+bd_bangladesh,bd - bangladesh
+be_belgium,be - belgium
+bf_burkina_faso,bf - burkina faso
+bg_bulgaria,bg - bulgaria
+bh_bahrain,bh - bahrain
+bi_burundi,bi - burundi
+bj_benin,bj - benin
+bn_brunei,bn - brunei
+bo_bolivia,bo - bolivia
+br_brazil,br - brazil
+bs_bahamas,bs - bahamas
+bt_bhutan,bt - bhutan
+bw_botswana,bw - botswana
+by_belarus,by - belarus
+bz_belize,bz - belize
+ca_canada,ca - canada
+cf_central_african_republic,cf - central african republic
+cf_congo__republic_of_the,cf - congo  republic of the
+cg_congo__democratic_republic_of,cg - congo  democratic republic of
+ck_cook_islands,ck - cook islands
+ck_cote_d_ivoire,ck - cote d ivoire
+cl_chile,cl - chile
+cm_cameroon,cm - cameroon
+cn_china,cn - china
+co_colombia,co - colombia
+cr_costa_rica,cr - costa rica
+cu_cuba,cu - cuba
+cv_cape_verde,cv - cape verde
+cy_cyprus,cy - cyprus
+cz_czech_republic,cz - czech republic
+hk_china__hong_kong,hk - china  hong kong
+hr_croatia,hr - croatia
+kh_cambodia,kh - cambodia
+km_comoros,km - comoros
+mc_china__macau,mc - china  macau
+td_chad,td - chad
+dk_denmark,dk - denmark
+do_dominican_republic,do - dominican republic
+ec_ecuador,ec - ecuador
+ee_estonia,ee - estonia
+eg_egypt,eg - egypt
+er_eritrea,er - eritrea
+et_ethiopia,et - ethiopia
+gq_equatorial_guinea,gq - equatorial guinea
+sv_el_salvador,sv - el salvador
+tl_east_timor,tl - east timor
+fi_finland,fi - finland
+fj_fiji,fj - fiji
+fr_france,fr - france
+gf_french_guiana,gf - french guiana
+pf_french_polynesia,pf - french polynesia
+de_germany,de - germany
+ga_gabon,ga - gabon
+gd_grenada,gd - grenada
+ge_georgia,ge - georgia
+gh_ghana,gh - ghana
+gl_greenland,gl - greenland
+gm_gambia,gm - gambia
+gn_guinea,gn - guinea
+gp_guadeloupe,gp - guadeloupe
+gr_greece,gr - greece
+gt_guatemala,gt - guatemala
+gu_guam,gu - guam
+gw_guinea__bissau,gw - guinea-bissau
+gy_guyana,gy - guyana
+hn_honduras,hn - honduras
+ht_haiti,ht - haiti
+hu_hungary,hu - hungary
+id_indonesia,id - indonesia
+ie_ireland,ie - ireland
+il_israel,il - israel
+im_isle_of_man,im - isle of man
+in_india,in - india
+iq_iraq,iq - iraq
+ir_iran,ir - iran
+is_iceland,is - iceland
+it_italy,it - italy
+jm_jamaica,jm - jamaica
+jo_jordan,jo - jordan
+jp_japan,jp - japan
+ke_kenya,ke - kenya
+kg_kyrgyzstan,kg - kyrgyzstan
+ki_kiribati__gilbert,ki - kiribati  gilbert
+ks_korea__south,ks - korea  south
+kz_kazakhstan,kz - kazakhstan
+la_laos,la - laos
+lr_liberia,lr - liberia
+ls_lesotho,ls - lesotho
+lt_lithuania,lt - lithuania
+lu_luxembourg,lu - luxembourg
+lv_latvia,lv - latvia
+ly_libya,ly - libya
+fm_micronesia__federated_states,fm - micronesia  federated states
+ma_morocco,ma - morocco
+md_moldova,md - moldova
+mg_madagascar,mg - madagascar
+mh_marshall_islands,mh - marshall islands
+mk_macedonia,mk - macedonia
+ml_mali,ml - mali
+mm_myanmar__burma,mm - myanmar  (burma)
+mn_mongolia,mn - mongolia
+mr_mauritania,mr - mauritania
+mt_malta,mt - malta
+mu_mauritius,mu - mauritius
+mv_maldives,mv - maldives
+mw_malawi,mw - malawi
+mx_mexico,mx - mexico
+my_malaysia,my - malaysia
+mz_mozambique,mz - mozambique
+yt_mayotte,yt - mayotte
+an_netherlands_antilles,an - netherlands antilles
+mp_northern_mariana_islands,mp - northern mariana islands
+na_namibia,na - namibia
+nc_new_caledonia,nc - new caledonia
+nf_norfolk_island,nf - norfolk island
+ng_nigeria,ng - nigeria
+ni_nicaragua,ni - nicaragua
+nl_netherlands,nl - netherlands
+no_norway,no - norway
+np_nepal,np - nepal
+nr_nauru,nr - nauru
+nu_niue,nu - niue
+nz_new_zealand,nz - new zealand
+rn_niger,rn - niger
+om_oman,om - oman
+pe_peru,pe - peru
+pg_papua_new_guinea,pg - papua new guinea
+ph_philippines,ph - philippines
+pk_pakistan,pk - pakistan
+pl_poland,pl - poland
+pr_puerto_rico,pr - puerto rico
+pt_portugal,pt - portugal
+pw_palau,pw - palau
+py_paraguay,py - paraguay
+pz_panama,pz - panama
+re_reunion,re - reunion
+ro_romania,ro - romania
+ru_russia,ru - russia
+rw_rwanda,rw - rwanda
+ch_switzerland,ch - switzerland
+es_spain,es - spain
+lc_saint_lucia,lc - saint lucia
+lk_sri_lanka,lk - sri lanka
+od_south_sudan,od - south sudan
+rs_serbia,rs - serbia
+sa_saudi_arabia,sa - saudi arabia
+sb_solomon_islands,sb - solomon islands
+sc_seychelles,sc - seychelles
+sd_sudan,sd - sudan
+se_sweden,se - sweden
+sg_singapore,sg - singapore
+si_slovenia,si - slovenia
+sk_slovakia,sk - slovakia
+sl_sierra_leone,sl - sierra leone
+sn_senegal,sn - senegal
+so_somalia,so - somalia
+sr_suriname,sr - suriname
+st_sao_tome_and_principe,st - sao tome and principe
+sy_syria,sy - syria
+sz_swaziland,sz - swaziland
+vc_st_vincent_and_grenadines,vc - st vincent and grenadines
+ws_samoa,ws - samoa
+za_south_africa,za - south africa
+tc_turks_and_caicos_islands,tc - turks and caicos islands
+tg_togo,tg - togo
+th_thailand,th - thailand
+tj_tajikistan,tj - tajikistan
+tk_tokelau,tk - tokelau
+tm_turkmenistan,tm - turkmenistan
+tn_tunisia,tn - tunisia
+to_tonga,to - tonga
+tr_turkey,tr - turkey
+tt_trinidad_and_tobago,tt - trinidad and tobago
+tv_tuvalu,tv - tuvalu
+tw_taiwan,tw - taiwan
+tz_tanzania,tz - tanzania
+ae_united_arab_emirates,ae - united arab emirates
+gb_united_kingdom,gb - united kingdom
+ua_ukraine,ua - ukraine
+ug_uganda,ug - uganda
+us_united_states,us - united states
+uy_uruguay,uy - uruguay
+uz_uzbekistan,uz - uzbekistan
+va_vatican_city,va - vatican city
+ve_venezuela,ve - venezuela
+vi_virgin_islands__us,vi - virgin islands  us
+vn_vietnam,vn - vietnam
+vu_vanuatu,vu - vanuatu
+ps_west_bank___gaza,ps - west bank_gaza
+wf_wallis_and_futuna_islands,wf - wallis and futuna islands
+ye_yemen,ye - yemen
+zm_zambia,zm - zambia
+zw_zimbabwe,zw - zimbabwe
